@@ -1,0 +1,75 @@
+#banner {
+    background-color: #d8d8d8;
+
+}
+
+.academy {
+    color: gray;
+}
+
+.academy, .colmar {
+    font-size: larger;
+    font-weight: 650;
+}
+
+.nav-link {
+
+    color: black;
+}
+
+.lorem {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.read1, .read2, .read3 {
+    color: rgba(10, 140, 247, 0.692);
+}
+
+.start {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    text-align: center;
+}
+
+#learning {
+    background-color: #d8d8d8;
+}
+
+
+.Thesis_exhibit {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    text-align: center;
+}
+
+#lecture {
+    background-color: #d8d8d8;
+}
+
+#fisma {
+    background-color: #d8d8d8;
+}
+
+#title_thesis {
+
+    padding-left: 24px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+#text_thesis {
+
+    padding-left: 24px;
+    padding-top: 8px;
+    padding-bottom: 32px;
+    font-size: 18px;
+}
+
+
+/*mobile*/
+
+
+#startlearn {
+    text-align: center;
+}
